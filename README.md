@@ -36,9 +36,9 @@ Ted
 
 ********************************************
 Name: Bob
-Amount of Money: 357
-Pounds of Dogfood Available: 0
-Number of dogs: 2
+Amount of Money: 357\n
+Pounds of Dogfood Available: 0\n
+Number of dogs: 2\n
 
 Dog 1: Bil has the following attributes: 
 Current Hunger Level (1-100): 98

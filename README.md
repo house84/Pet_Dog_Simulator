@@ -1,6 +1,9 @@
 Author: Nick House
+
 Class: Object Oriented Programming Java
+
 Project: Human Dog Simulator
+
 Date: 26Sep2019
 
 # Pet_Dog_Simulator

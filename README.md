@@ -35,22 +35,35 @@ What is dog 2's name?
 Ted
 
 ********************************************
+
 Name: Bob
-Amount of Money: 357\n
-Pounds of Dogfood Available: 0\n
+
+Amount of Money: 357
+
+Pounds of Dogfood Available: 0
+
 Number of dogs: 2\n
 
 Dog 1: Bil has the following attributes: 
+
 Current Hunger Level (1-100): 98
+
 Current Cleanliness (1-100): 11
+
 Fun Level (1-100): 8
+
 Loyalty (1-100): 98
 
 Dog 2: Ted has the following attributes: 
+
 Current Hunger Level (1-100): 40
+
 Current Cleanliness (1-100): 99
+
 Fun Level (1-100): 50
+
 Loyalty (1-100): 50
+
 ********************************************
 
 Please select the number for what you would like Bob to do. 
